@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea; /* Light grey background */
+    text-align: center; /* Center aligns all text */
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    display: inline-block; /* This is necessary for centering buttons */
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
